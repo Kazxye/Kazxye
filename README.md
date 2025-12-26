@@ -11,7 +11,7 @@
 
 ---
 
-###Sobre mim
+### Sobre mim
 
 Futuro Engenheiro de Software pela **FIAP** (2028), com interesse em construir carreira em tecnologia com ênfase em **cibersegurança**. Atualmente desenvolvendo projetos pessoais em Python voltados para ferramentas de gaming e automação.
 
