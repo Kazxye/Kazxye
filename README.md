@@ -11,7 +11,7 @@
 
 ---
 
-### Sobre mim
+###Sobre mim
 
 Futuro Engenheiro de Software pela **FIAP** (2028), com interesse em construir carreira em tecnologia com ênfase em **cibersegurança**. Atualmente desenvolvendo projetos pessoais em Python voltados para ferramentas de gaming e automação.
 
@@ -28,7 +28,10 @@ Futuro Engenheiro de Software pela **FIAP** (2028), com interesse em construir c
 
 **Frameworks & Bibliotecas**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2B2B2B?style=for-the-badge&logo=python&logoColor=white)
 
 **Ferramentas**
@@ -39,21 +42,26 @@ Futuro Engenheiro de Software pela **FIAP** (2028), com interesse em construir c
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-![Kazys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kazxye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/Kazxye">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazxye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kazxye&theme=tokyonight&hide_border=true)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kazxye&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### Atualmente estudando
+###Atualmente estudando
 
 - Cibersegurança e análise de vulnerabilidades
 - Engenharia reversa e análise de software
