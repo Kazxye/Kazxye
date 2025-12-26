@@ -61,7 +61,7 @@ Futuro Engenheiro de Software pela **FIAP** (2028), com interesse em construir c
 
 ---
 
-###Atualmente estudando
+### Atualmente estudando
 
 - Cibersegurança e análise de vulnerabilidades
 - Engenharia reversa e análise de software
