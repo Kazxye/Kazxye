@@ -59,6 +59,6 @@ Tools            Git • VS Code • GitHub
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Kazxye&color=333&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Kazxye&color=gray&style=flat-square&label=Profile+Views)
 
 </div>
