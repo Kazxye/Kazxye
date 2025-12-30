@@ -27,7 +27,7 @@ Languages        Python • C • C++ • JavaScript • TypeScript
 Frontend         React • Tailwind CSS
 Data Science     Pandas • Matplotlib
 Desktop          CustomTkinter
-Tools            Git • VS Code • GitHub
+Tools            Git • VSCode • GitHub • WebStorm • PyCharm • Clion
 ```
 
 ---
