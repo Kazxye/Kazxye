@@ -102,15 +102,15 @@ Full-stack network monitoring system with real-time scanning, device discovery, 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=default&hide_border=true&langs_count=6" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=00000000" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </picture>
 
 </div>
