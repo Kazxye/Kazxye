@@ -41,7 +41,7 @@ DLL injection utility demonstrating Windows internals, process manipulation, and
 
 Automated loot tracking and distribution system for guild management with Discord webhook integration and filtering capabilities.
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kazxye)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kazxye/Loot-Logger-Albion-Online)
 
 </td>
 </tr>
