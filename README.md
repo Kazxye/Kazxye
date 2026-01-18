@@ -101,24 +101,25 @@ Full-stack network monitoring system with real-time scanning, device discovery, 
 
 <div align="center">
 
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazxye&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+
+<br/>
+
+<!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kazxye&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=default&hide_border=true&langs_count=6" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazxye/Kazxye/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazxye/Kazxye/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Kazxye/Kazxye/output/github-snake-dark.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
-<br>
+<!-- Languages -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=tex" width="400px"/>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Kazxye&color=5A8ADC&style=flat-square&label=Profile+Views)
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kazxye&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
