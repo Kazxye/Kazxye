@@ -2,23 +2,46 @@
 
 # Kazys Tatarunas
 
-**Software Engineering Student • Cybersecurity Enthusiast**
+**`Software Engineer`** · **`Cybersecurity`** · **`Systems Programming`**
 
-São Paulo, Brazil
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazystatarunas/)
-[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kazysdzigantatarunas@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Kazxye)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazysdzigantatarunas@outlook.com)
+[![Portfolio](https://img.shields.io/badge/kazys.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kazys.dev)
 
 </div>
 
-<br>
+<br/>
 
 ## About
 
-Software Engineering undergraduate at **FIAP** (graduating 2028) building expertise in **cybersecurity** and **systems programming**. I enjoy creating tools that combine low-level systems knowledge with modern interfaces — from Windows internals to full-stack applications.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=bookstack&logoColor=58a6ff" width="50"/><br/>
+<strong>Education</strong><br/>
+<sub>Software Engineering @ FIAP<br/>3rd Semester • 2028</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=hackthebox&logoColor=58a6ff" width="50"/><br/>
+<strong>Focus</strong><br/>
+<sub>Cybersecurity<br/>Systems Programming</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" width="50"/><br/>
+<strong>Location</strong><br/>
+<sub>São Paulo, Brazil</sub>
+</td>
+</tr>
+</table>
 
-<br>
+<br/>
+
+*Building tools that bridge low-level systems knowledge with modern interfaces.*
+
+</div>
 
 ## Featured Projects
 
