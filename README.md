@@ -74,28 +74,58 @@ Full-stack network monitoring system with real-time scanning, device discovery, 
 ## Tech Stack
 
 <div align="center">
-
-| Domain | Technologies |
-|:------:|:-------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,ts&perline=2&theme=dark" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,alpinejs&perline=2&theme=dark" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,discord,mysql&perline=2&theme=dark" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=clion,pycharm,webstorm,vscode&perline=2&theme=dark" />
+</td>
+</tr>
+</table>
 </div>
-
-<br>
 
 ## Current Focus
 
-```
-🔬 Vulnerability Analysis     Exploring penetration testing methodologies
-🔄 Reverse Engineering        Understanding binary analysis and disassembly  
-🌐 Network Security           Packet analysis and protocol inspection
-⚙️ Systems Programming        Windows internals and low-level development
-```
-
-<br>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" width="60px"/><br/>
+<strong>Vulnerability Analysis</strong><br/>
+<sub>Penetration Testing</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=buffer&logoColor=dc3545" width="60px"/><br/>
+<strong>Reverse Engineering</strong><br/>
+<sub>Binary Analysis</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" width="60px"/><br/>
+<strong>Network Security</strong><br/>
+<sub>Packet Inspection</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" width="60px"/><br/>
+<strong>Systems Programming</strong><br/>
+<sub>Windows Internals</sub>
+</td>
+</tr>
+</table>
+</div>
 
 ## Analytics
 
