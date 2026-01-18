@@ -22,54 +22,42 @@ Software Engineering undergraduate at **FIAP** (graduating 2028) building expert
 
 ## Featured Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
-
-### 🔧 Kazz Injector
-**C++ • ImGui • DirectX 11 • Win32 API**
-
-DLL injection utility demonstrating Windows internals, process manipulation, and memory management with a modern hardware-accelerated GUI.
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kazxye/Kazz-Injector)
-
+<td align="center" width="50%">
+<a href="https://github.com/Kazxye/Kazz-Injector">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/>
+<strong>Kazz Injector</strong><br/>
+<sub>DLL injection • Windows Internals • ImGui</sub>
+</a>
 </td>
-<td width="50%">
-
-### 🎮 Albion Loot Logger
-**Python • Discord Integration • Data Processing**
-
-Automated loot tracking and distribution system for guild management with Discord webhook integration and filtering capabilities.
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kazxye/Loot-Logger-Albion-Online)
-
+<td align="center" width="50%">
+<a href="https://github.com/Kazxye/Loot-Logger-Albion-Online">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br/>
+<strong>Albion Loot Logger</strong><br/>
+<sub>Guild Management • Discord Webhooks • Dashboard</sub>
+</a>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🛡️ PhishGuard
-**Python • FastAPI • Browser Extension**
-
-Phishing detection browser extension with machine learning backend for real-time URL analysis and threat identification.
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kazxye)
-
+<td align="center" width="50%">
+<a href="https://github.com/Kazxye">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50"/><br/>
+<strong>PhishGuard</strong><br/>
+<sub>Phishing Detection • Browser Extension • REST API</sub>
+</a>
 </td>
-<td width="50%">
-
-### 📡 Network Radar
-**TypeScript • React • Python • FastAPI**
-
-Full-stack network monitoring system with real-time scanning, device discovery, and traffic analysis dashboard.
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kazxye)
-
+<td align="center" width="50%">
+<a href="https://github.com/Kazxye">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
+<strong>Network Radar</strong><br/>
+<sub>Network Monitoring • Real-time Scanning • Radar UI</sub>
+</a>
 </td>
 </tr>
 </table>
-
-<br>
+</div>
 
 ## Tech Stack
 
