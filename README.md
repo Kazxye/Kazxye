@@ -157,7 +157,7 @@
 <br/><br/>
 
 <!-- Languages -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=tex" width="400px"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=tex,html" width="400px"/>
 
 <br/><br/>
 
