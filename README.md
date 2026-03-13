@@ -27,19 +27,20 @@
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=hackthebox&logoColor=58a6ff" width="50"/><br/>
 <strong>Focus</strong><br/>
-<sub>Cybersecurity<br/>Systems Programming</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" width="50"/><br/>
-<strong>Location</strong><br/>
-<sub>São Paulo, Brazil</sub>
+<sub>Cybersecurity · Reverse Engineering<br/>Systems Programming</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-*Building tools that bridge low-level systems knowledge with modern interfaces.*
+*I build tools that interact with the OS, network stack, and binaries — then wrap them in interfaces that make the data readable.*
+
+<br/>
+
+Software engineering student focused on **cybersecurity**, **reverse engineering**, and **low-level systems**.<br/>
+I study how software behaves internally: Windows internals, memory manipulation, network protocols, and binary behavior.<br/>
+My projects span DLL injection, packet inspection, protocol parsing, and security-oriented automation.
 
 </div>
 
