@@ -108,18 +108,13 @@ My projects span DLL injection, packet inspection, protocol parsing, and securit
 <sub>FastAPI · Node.js · Discord · MySQL</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/DLL_Injection-555555?style=for-the-badge&logo=buffer&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Binary_Analysis-dc3545?style=for-the-badge&logo=gnubash&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/OSINT-2d2d2d?style=for-the-badge&logo=torproject&logoColor=purple" /><br/>
-<img src="https://img.shields.io/badge/Vuln_Research-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /><br/>
+<img src="https://skillicons.dev/icons?i=kali,linux&perline=2&theme=dark" /><br/>
 <sub>Windows Internals · Packet Inspection<br/>DLL Injection · Binary Analysis<br/>OSINT · Vulnerability Research</sub>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=clion,pycharm,webstorm,vscode&perline=2&theme=dark" />
-<img src="https://skillicons.dev/icons?i=linux,git&perline=2&theme=dark" /><br/>
-<sub>CLion · PyCharm · WebStorm · VS Code<br/>Fedora Linux · Git · VMs for labs</sub>
+<img src="https://skillicons.dev/icons?i=clion,pycharm,webstorm,vscode&perline=2&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=git&perline=2&theme=dark" /><br/>
+<sub>CLion · PyCharm · WebStorm · VS Code<br/>Fedora Linux · Git · VMs</sub>
 </td>
 </tr>
 </table>
