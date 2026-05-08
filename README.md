@@ -2,13 +2,14 @@
 
 # Kazys Tatarunas
 
-**`Software Engineer`** · **`Cybersecurity`** · **`Systems Programming`**
+**`Software Engineer`** · **`Defensive Security`** · **`Detection Engineering`**
 
 <br/>
 
-
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://kazys.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![Status](https://img.shields.io/badge/Open%20to-SOC%20Internships-9FEF00?style=for-the-badge)](https://linkedin.com/in/SEU-HANDLE)
 
 </div>
 
@@ -19,28 +20,28 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=bookstack&logoColor=58a6ff" width="50"/><br/>
 <strong>Education</strong><br/>
-<sub>Software Engineering @ FIAP<br/>3rd Semester • 2028</sub>
+<sub>Software Engineering @ FIAP<br/>Class of 2028 · São Paulo, Brazil</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=hackthebox&logoColor=58a6ff" width="50"/><br/>
 <strong>Focus</strong><br/>
-<sub>Cybersecurity · Reverse Engineering<br/>Systems Programming</sub>
+<sub>Defensive Security · Detection Engineering<br/>Security Tooling</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-*I build tools that interact with the OS, network stack, and binaries — then wrap them in interfaces that make the data readable.*
+*I build offensive tools to understand what defenders need to catch.*
 
 <br/>
 
-Software engineering student focused on **cybersecurity**, **reverse engineering**, and **low-level systems**.<br/>
-I study how software behaves internally: Windows internals, memory manipulation, network protocols, and binary behavior.<br/>
-My projects span DLL injection, packet inspection, protocol parsing, and security-oriented automation.
+Software engineering student building toward **Defensive Security** — targeting SOC Analyst / Security Engineer roles.<br/>
+My work centers on **detection**, **log analysis**, and **security tooling**.<br/>
+I study attacker behavior — Windows internals, packet manipulation, binary analysis — to engineer better defenses.
 
 </div>
 
@@ -50,71 +51,34 @@ My projects span DLL injection, packet inspection, protocol parsing, and securit
 <table>
 <tr>
 <td align="center" width="50%">
+<a href="https://github.com/Kazxye/PhishGuard">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50"/><br/>
+<strong>PhishGuard</strong><br/>
+<sub>Phishing detection API · IOC analysis · Browser extension</sub>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Kazxye/Network-Radar">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
+<strong>Network Radar</strong><br/>
+<sub>Network monitoring · Anomaly detection · Asset discovery</sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/Kazxye/Kazz-Injector">
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/>
 <strong>Kazz Injector</strong><br/>
-<sub>DLL injection • Windows Internals • ImGui</sub>
+<sub>Process injection research · Windows Internals · Detection-aware design</sub>
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/Kazxye/Loot-Logger-Albion-Online">
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br/>
 <strong>Albion Loot Logger</strong><br/>
-<sub>Guild Management • Discord Webhooks • Dashboard</sub>
+<sub>Network packet capture · Real-time event logging · Discord webhooks</sub>
 </a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/Kazxye">
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50"/><br/>
-<strong>PhishGuard</strong><br/>
-<sub>Phishing Detection • Browser Extension • REST API</sub>
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/Kazxye">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
-<strong>Network Radar</strong><br/>
-<sub>Network Monitoring • Real-time Scanning • Radar UI</sub>
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-## Tech Stack
-
-<div align="center">
-<table>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>Security & Systems</b></td>
-<td align="center"><b>Environment</b></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,ts&perline=2&theme=dark" /><br/>
-<sub>C++ · C · Python · TypeScript</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html&perline=2&theme=dark" /><br/>
-<sub>React · Tailwind · HTML</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,discord,mysql&perline=2&theme=dark" /><br/>
-<sub>FastAPI · Node.js · Discord · MySQL</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=kali,linux&perline=2&theme=dark" /><br/>
-<sub>Windows Internals · Packet Inspection<br/>DLL Injection · Binary Analysis<br/>OSINT · Vulnerability Research</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=clion,pycharm,webstorm,vscode&perline=2&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=git&perline=2&theme=dark" /><br/>
-<sub>CLion · PyCharm · WebStorm · VS Code<br/>Fedora Linux · Git · VMs</sub>
 </td>
 </tr>
 </table>
@@ -126,24 +90,79 @@ My projects span DLL injection, packet inspection, protocol parsing, and securit
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" width="60px"/><br/>
-<strong>Vulnerability Analysis</strong><br/>
-<sub>Penetration Testing</sub>
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=elastic&logoColor=00bfb3" width="60px"/><br/>
+<strong>Detection Engineering</strong><br/>
+<sub>Sigma · YARA · SIEM rules</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=buffer&logoColor=dc3545" width="60px"/><br/>
-<strong>Reverse Engineering</strong><br/>
-<sub>Binary Analysis</sub>
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=splunk&logoColor=ff5733" width="60px"/><br/>
+<strong>Log Analysis &amp; SIEM</strong><br/>
+<sub>Wazuh · Elastic Stack</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" width="60px"/><br/>
-<strong>Network Security</strong><br/>
-<sub>Packet Inspection</sub>
+<strong>Network Security Monitoring</strong><br/>
+<sub>Suricata · Zeek · Wireshark</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" width="60px"/><br/>
-<strong>Systems Programming</strong><br/>
-<sub>Windows Internals</sub>
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=virustotal&logoColor=394EFF" width="60px"/><br/>
+<strong>Threat Intelligence</strong><br/>
+<sub>MITRE ATT&amp;CK · IOCs · DFIR</sub>
+</td>
+</tr>
+</table>
+</div>
+
+## Tech Stack
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><b>Backend &amp; Frontend</b></td>
+<td align="center"><b>Defensive Security</b></td>
+<td align="center"><b>Offensive (for defense)</b></td>
+<td align="center"><b>Environment</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts&perline=2&theme=dark" /><br/>
+<sub>Python · C++ · C · TypeScript</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,nodejs&perline=2&theme=dark" /><br/>
+<sub>FastAPI · React · Tailwind · Node.js</sub>
+</td>
+<td align="center">
+<sub>Wazuh · Elastic Stack<br/>Suricata · Zeek<br/>YARA · Sigma<br/>Wireshark · tcpdump<br/>MITRE ATT&amp;CK</sub>
+</td>
+<td align="center">
+<sub>Metasploit · Nmap<br/>Burp Suite · Hydra<br/>Windows Internals<br/>Packet Inspection<br/>Binary Analysis</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,git,fish&perline=2&theme=dark" /><br/>
+<sub>Fedora · Kali · Git<br/>CLion · PyCharm · VS Code</sub>
+</td>
+</tr>
+</table>
+</div>
+
+## Currently Learning
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>📚 Studying</strong><br/>
+<sub>CompTIA Security+<br/>Blue Team Level 1 (BTL1)</sub>
+</td>
+<td align="center" width="33%">
+<strong>🛠️ Hands-on</strong><br/>
+<sub>TryHackMe SOC Level 1<br/>HackTheBox Defensive Path</sub>
+</td>
+<td align="center" width="33%">
+<strong>🎯 Building</strong><br/>
+<sub>Sigma detection rules<br/>Home lab honeypot</sub>
 </td>
 </tr>
 </table>
