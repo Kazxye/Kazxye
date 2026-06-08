@@ -168,12 +168,6 @@ I study attacker behavior — Windows internals, packet manipulation, binary ana
 </table>
 </div>
 
-## Analytics
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazxye&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
 
 <br/>
 
