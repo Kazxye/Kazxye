@@ -2,50 +2,72 @@
 
 # Kazys Tatarunas
 
-**`Software Engineer`** · **`Defensive Security`** · **`Detection Engineering`**
+**`Detection Engineering`** · **`Defensive Security`** · **`Software Engineer`**
 
 <br/>
 
+<!-- ATENÇÃO: confira os 4 links abaixo antes de commitar. O badge de status era um placeholder. -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://kazys.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazystatarunas)
+<!-- RECOMENDADO: trocar por contato@kazys.dev (voce ja tem o dominio). O gmail atual expoe ano de nascimento. -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazys2006rtt@gmail.com)
-[![Status](https://img.shields.io/badge/Open%20to-SOC%20Internships-9FEF00?style=for-the-badge)](https://linkedin.com/in/SEU-HANDLE)
+[![Status](https://img.shields.io/badge/Open%20to-SOC%20Internships-9FEF00?style=for-the-badge)](https://linkedin.com/in/kazystatarunas)
+
+<br/>
+
+### *I build offensive tooling — then engineer the detections that catch it.*
+
+<br/>
+
+Software Engineering student at **FIAP** (São Paulo, class of 2028), working toward **SOC Analyst / Security Engineer**.
+
+I study attacker tradecraft — Windows internals, packet manipulation, binary analysis — and turn each
+technique into the thing a defender actually needs: **telemetry, a detection rule, and a tested alert.**
+
+**Open to SOC internships** · São Paulo or remote · available from <!-- FILL: mês/ano -->
 
 </div>
 
 <br/>
 
-## About
+## Detection Work
 
 <div align="center">
+
+<!--
+  ESTE E O REPO DE MAIOR IMPACTO QUE VOCE AINDA NAO TEM.
+  Crie github.com/Kazxye/detection-lab com:
+    - regras Sigma escritas por voce (.yml)
+    - o log bruto de teste que dispara cada regra (para o avaliador reproduzir)
+    - mapeamento MITRE ATT&CK por regra
+    - README explicando a logica de deteccao e os falsos positivos esperados
+  Comece pelo Kazz Injector: voce ja tem o binario ofensivo, so falta a deteccao.
+  Enquanto o repo nao existir, mantenha esta secao inteira comentada — link quebrado
+  e pior do que secao ausente.
+-->
+
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=bookstack&logoColor=58a6ff" width="50"/><br/>
-<strong>Education</strong><br/>
-<sub>Software Engineering @ FIAP<br/>Class of 2028 · São Paulo, Brazil</sub>
+<a href="https://github.com/Kazxye/detection-lab">
+<strong>Detection Lab</strong><br/>
+<sub>Sigma rules · Test telemetry · ATT&amp;CK mapping</sub>
+</a>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=hackthebox&logoColor=58a6ff" width="50"/><br/>
-<strong>Focus</strong><br/>
-<sub>Defensive Security · Detection Engineering<br/>Security Tooling</sub>
+<a href="https://github.com/Kazxye/detection-lab">
+<strong>Detecting My Own Injector</strong><br/>
+<sub>T1055.001 · Sysmon EID 8 / EID 10 · YARA + Sigma</sub>
+</a>
 </td>
 </tr>
 </table>
 
-<br/>
-
-*I build offensive tools to understand what defenders need to catch.*
-
-<br/>
-
-Software engineering student building toward **Defensive Security** — targeting SOC Analyst / Security Engineer roles.<br/>
-My work centers on **detection**, **log analysis**, and **security tooling**.<br/>
-I study attacker behavior — Windows internals, packet manipulation, binary analysis — to engineer better defenses.
+<sub>Every rule ships with the raw event log that triggers it — reproduce it yourself.</sub>
 
 </div>
 
-## Featured Projects
+## Projects
 
 <div align="center">
 <table>
@@ -54,14 +76,16 @@ I study attacker behavior — Windows internals, packet manipulation, binary ana
 <a href="https://github.com/Kazxye/PhishGuard">
 <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50"/><br/>
 <strong>PhishGuard</strong><br/>
-<sub>Phishing detection API · IOC analysis · Browser extension</sub>
+<sub>Phishing triage API · IOC enrichment · Analyst-facing verdicts</sub><br/>
+<sub><!-- FILL: metrica real. ex: "N IOC sources · p95 &lt;Xms" --></sub>
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/Kazxye/Network-Radar">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
 <strong>Network Radar</strong><br/>
-<sub>Network monitoring · Anomaly detection · Asset discovery</sub>
+<sub>Asset discovery · Traffic baselining · Anomaly alerting</sub><br/>
+<sub><!-- FILL: escala. ex: "monitors /24 · X events/min" --></sub>
 </a>
 </td>
 </tr>
@@ -70,58 +94,38 @@ I study attacker behavior — Windows internals, packet manipulation, binary ana
 <a href="https://github.com/Kazxye/Kazz-Injector">
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/>
 <strong>Kazz Injector</strong><br/>
-<sub>Process injection research · Windows Internals · Detection-aware design</sub>
+<sub>Process injection research · Windows Internals</sub><br/>
+<sub>Built to study the telemetry it leaves behind</sub>
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/Kazxye/Loot-Logger-Albion-Online">
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br/>
 <strong>Albion Loot Logger</strong><br/>
-<sub>Network packet capture · Real-time event logging · Discord webhooks</sub>
+<sub>Live UDP capture · Photon protocol parsing</sub><br/>
+<sub>Protocol reverse engineering &amp; network forensics</sub>
 </a>
 </td>
 </tr>
 </table>
 </div>
 
-## Current Focus
+## Toolbox
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=elastic&logoColor=00bfb3" width="60px"/><br/>
-<strong>Detection Engineering</strong><br/>
-<sub>Sigma · YARA · SIEM rules</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=splunk&logoColor=ff5733" width="60px"/><br/>
-<strong>Log Analysis &amp; SIEM</strong><br/>
-<sub>Wazuh · Elastic Stack</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" width="60px"/><br/>
-<strong>Network Security Monitoring</strong><br/>
-<sub>Suricata · Zeek · Wireshark</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=virustotal&logoColor=394EFF" width="60px"/><br/>
-<strong>Threat Intelligence</strong><br/>
-<sub>MITRE ATT&amp;CK · IOCs · DFIR</sub>
-</td>
-</tr>
-</table>
-</div>
 
-## Tech Stack
+<!--
+  REGRA: nada entra em "Working with" sem um repo, writeup ou lab publico que prove.
+  Tudo o que voce ainda nao consegue provar fica em "Studying". Um entrevistador vai
+  pedir para voce mostrar. Melhor uma lista curta e defensavel do que longa e furada.
+-->
 
-<div align="center">
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center"><b>Backend &amp; Frontend</b></td>
-<td align="center"><b>Defensive Security</b></td>
-<td align="center"><b>Offensive (for defense)</b></td>
+<td align="center"><b>Detection &amp; Monitoring</b></td>
+<td align="center"><b>Adversary Emulation</b></td>
+<td align="center"><b>Backend</b></td>
 <td align="center"><b>Environment</b></td>
 </tr>
 <tr>
@@ -130,61 +134,93 @@ I study attacker behavior — Windows internals, packet manipulation, binary ana
 <sub>Python · C++ · C · TypeScript</sub>
 </td>
 <td align="center">
+<sub>Sigma · YARA<br/>Sysmon · Wireshark<br/>tcpdump · Suricata<br/>MITRE ATT&amp;CK</sub>
+</td>
+<td align="center">
+<sub>Atomic Red Team<br/>Metasploit · Nmap<br/>Burp Suite<br/>Packet manipulation<br/>Binary analysis</sub>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,nodejs&perline=2&theme=dark" /><br/>
 <sub>FastAPI · React · Tailwind · Node.js</sub>
 </td>
 <td align="center">
-<sub>Wazuh · Elastic Stack<br/>Suricata · Zeek<br/>YARA · Sigma<br/>Wireshark · tcpdump<br/>MITRE ATT&amp;CK</sub>
-</td>
-<td align="center">
-<sub>Metasploit · Nmap<br/>Burp Suite · Hydra<br/>Windows Internals<br/>Packet Inspection<br/>Binary Analysis</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,git,fish&perline=2&theme=dark" /><br/>
-<sub>Fedora · Kali · Git<br/>CLion · PyCharm · VS Code</sub>
+<img src="https://skillicons.dev/icons?i=linux,kali,git&perline=2&theme=dark" /><br/>
+<sub>Fedora · Kali · Git</sub>
 </td>
 </tr>
 </table>
-</div>
-
-## Currently Learning
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>📚 Studying</strong><br/>
-<sub>CompTIA Security+<br/>Blue Team Level 1 (BTL1)</sub>
-</td>
-<td align="center" width="33%">
-<strong>🛠️ Hands-on</strong><br/>
-<sub>TryHackMe SOC Level 1<br/>HackTheBox Defensive Path</sub>
-</td>
-<td align="center" width="33%">
-<strong>🎯 Building</strong><br/>
-<sub>Sigma detection rules<br/>Home lab honeypot</sub>
-</td>
-</tr>
-</table>
-</div>
-
 
 <br/>
 
-<!-- Snake Animation -->
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>Studying</strong><br/>
+<sub>CompTIA Security+<br/>Blue Team Level 1</sub>
+</td>
+<td align="center" width="33%">
+<strong>Hands-on</strong><br/>
+<sub>TryHackMe SOC Level 1<br/>HackTheBox Defensive Path</sub>
+</td>
+<td align="center" width="33%">
+<strong>Building</strong><br/>
+<sub>Wazuh + Elastic home lab<br/>Honeypot &amp; alert pipeline</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+## Writing
+
+<div align="center">
+
+<!--
+  Voce ja produz conteudo tecnico no LinkedIn e mantem um study hub estruturado.
+  Nada disso aparecia no perfil. Analise escrita e A skill central de SOC — mostre.
+  Preencha ou apague a secao.
+-->
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://linkedin.com/in/kazystatarunas/recent-activity/all/">
+<strong>Security Series</strong><br/>
+<sub>Technical breakdowns in PT-BR · LinkedIn</sub>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://kazys.dev"><!-- FILL: link direto para writeups, se houver -->
+<strong>Lab Writeups</strong><br/>
+<sub>Room notes · Detection logic · Post-mortems</sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!--
+  Snake: depende de uma GitHub Action agendada. Actions sao desabilitadas automaticamente
+  apos 60 dias sem commit no repo — a imagem quebra em silencio. Cheque de vez em quando.
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazxye/Kazxye/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazxye/Kazxye/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Kazxye/Kazxye/output/github-snake-dark.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Kazxye/Kazxye/output/github-snake-dark.svg" />
 </picture>
 
 <br/><br/>
 
-<!-- Languages -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=tex,html" width="400px"/>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kazxye&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<!--
+  O host anterior (github-readme-stats-eight-theta.vercel.app) era um deploy de terceiro
+  desconhecido. Faca seu proprio deploy do github-readme-stats na SUA conta Vercel e troque
+  o dominio abaixo. A instancia oficial e rate-limited e falha em horario de pico.
+-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazxye&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=tex,html" alt="Most used languages" width="400px"/>
 
 </div>
